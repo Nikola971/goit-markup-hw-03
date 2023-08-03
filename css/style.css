@@ -112,6 +112,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  padding-bottom: 120px;
 }
 .images_descrip {
   font-size: 36px;
