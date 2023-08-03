@@ -101,6 +101,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 /* Images_section */
 .images_main {
@@ -229,4 +230,11 @@ img {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+.main-list-index {
+  display: flex;
+  gap: 24px;
+}
+.main-list-index-1 {
+  width: calc((100% - 72px) / 4);
 }
