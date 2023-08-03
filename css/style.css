@@ -33,6 +33,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .nav_header:hover,
 .nav_header:focus {
@@ -201,9 +202,6 @@ img {
   margin-right: 76px;
   display: flex;
   gap: 40px;
-}
-.navigation {
-  padding: 24px 0;
 }
 .address-list-index {
   display: flex;
