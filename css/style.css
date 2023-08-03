@@ -176,3 +176,6 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+img {
+  display: block;
+}
