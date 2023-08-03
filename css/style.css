@@ -276,12 +276,14 @@ img {
 .images_main_portfolio {
   padding-top: 96px;
   padding-bottom: 120px;
+  width: calc((100% - 48px) / 3);
 }
 .list-portfolio {
   display: flex;
   justify-content: center;
   gap: 24px;
   margin-bottom: 72px;
+  width: calc((100% - 48px) / 3);
 }
 .portfolio-img {
   display: flex;
