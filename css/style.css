@@ -202,3 +202,10 @@ img {
   display: flex;
   gap: 40px;
 }
+.navigation {
+  padding: 24px 0;
+}
+.address-list-index {
+  display: flex;
+  gap: 40px;
+}
