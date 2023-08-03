@@ -66,6 +66,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  max-width: 496px;
 }
 .button_hero {
   background-color: #4d5ae5;
@@ -207,7 +208,4 @@ img {
 .address-list-index {
   display: flex;
   gap: 40px;
-}
-.title-main-sectionn-1-index {
-  max-width: 496px;
 }
