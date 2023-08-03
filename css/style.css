@@ -248,3 +248,9 @@ img {
 .imagine-list-items {
   width: calc((100% - 48px) / 3);
 }
+.team_main {
+  padding: 120px 0;
+}
+.team_head {
+  margin-bottom: 72px;
+}
