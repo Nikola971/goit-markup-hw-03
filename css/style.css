@@ -235,6 +235,6 @@ img {
   display: flex;
   gap: 24px;
 }
-.main-list-index-1 {
+.main-list-index-one {
   width: calc((100% - 72px) / 4);
 }
