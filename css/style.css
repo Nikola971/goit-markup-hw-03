@@ -179,12 +179,16 @@ body {
   letter-spacing: 0.04em;
   color: #4d5ae5;
   background-color: #f4f4fd;
+  padding: 12px 24px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
 }
 .buttons:hover,
 .buttons:focus {
   background-color: #404bbf;
   color: #ffffff;
   cursor: pointer;
+  border: 1px solid transparent;
 }
 .img_head_hame {
   font-weight: 500;
@@ -266,4 +270,15 @@ img {
 .logo-footer {
   display: inline-block;
   margin-bottom: 16px;
+}
+/* Portfolio */
+.images_main_portfolio {
+  padding-top: 96px;
+  padding-bottom: 120px;
+}
+.list-portfolio {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
 }
