@@ -26,8 +26,6 @@ body {
 }
 .list {
   list-style: none;
-  display: flex;
-  gap: 24px;
 }
 .nav_header {
   font-weight: 500;
@@ -126,7 +124,6 @@ body {
 /* Team-main */
 .team_main {
   background-color: #f4f4fd;
-  padding: 120px 0;
 }
 .team_head {
   font-size: 36px;
@@ -135,7 +132,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-bottom: 72px;
 }
 .list_team {
   background-color: #ffffff;
