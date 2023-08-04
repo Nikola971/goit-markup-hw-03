@@ -266,9 +266,9 @@ img {
 .imagine-list-main {
   display: flex;
   gap: 24px;
+  width: calc((100% - 48px) / 3);
 }
 .imagine-list-items {
-  width: calc((100% - 48px) / 3);
 }
 .list-team-index {
   display: flex;
