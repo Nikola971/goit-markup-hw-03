@@ -294,3 +294,6 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
+.portfolio-img-descp {
+  width: calc((100% - 48px) / 3);
+}
