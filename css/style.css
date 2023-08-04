@@ -276,31 +276,20 @@ img {
 .images_main_portfolio {
   padding-top: 96px;
   padding-bottom: 120px;
-  width: calc((100% - 48px) / 3);
 }
 .list-portfolio {
   display: flex;
   justify-content: center;
   gap: 24px;
   margin-bottom: 72px;
-  width: calc((100% - 48px) / 3);
 }
 .portfolio-img {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  width: calc((100% - 48px) / 3);
-}
-.portfolio-img-descp {
-  width: calc((100% - 48px) / 3);
 }
 .catalog {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
-  border-top: none;
-  margin-bottom: 8px;
-}
-.link_portf {
-  width: calc((100% - 48px) / 3);
 }
