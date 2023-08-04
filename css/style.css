@@ -10,6 +10,13 @@ body {
   --body-fonts: 'Roboto', 'Raleway', sans-serif;
 }
 /* Header */
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+}
 .logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -257,13 +264,7 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-h1,
-h2,
-h3,
-p,
-ul {
-  margin: 0;
-}
+
 .main-list-index {
   display: flex;
   gap: 24px;
