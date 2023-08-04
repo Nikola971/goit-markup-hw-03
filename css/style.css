@@ -288,6 +288,8 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  margin: 0;
+  padding: 0;
 }
 .catalog {
   padding: 32px 16px;
