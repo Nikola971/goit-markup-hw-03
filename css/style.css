@@ -257,6 +257,13 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+}
 .main-list-index {
   display: flex;
   gap: 24px;
@@ -308,11 +315,4 @@ img {
 }
 .portfolio-img-descp {
   width: calc((100% - 48px) / 3);
-}
-h1,
-h2,
-h3,
-p,
-ul {
-  margin: 0;
 }
