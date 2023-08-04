@@ -10,13 +10,6 @@ body {
   --body-fonts: 'Roboto', 'Raleway', sans-serif;
 }
 /* Header */
-h1,
-h2,
-h3,
-p,
-ul {
-  margin: 0;
-}
 .logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
