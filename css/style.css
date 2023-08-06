@@ -34,6 +34,8 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
   padding: 24px 0;
+  display: flex;
+  flex-direction: row;
 }
 .nav_header:hover,
 .nav_header:focus {
@@ -210,6 +212,7 @@ body {
 }
 img {
   display: block;
+  width: 100%;
 }
 /* 3 homework */
 .header_index {
@@ -229,14 +232,15 @@ img {
   align-items: center;
 }
 .menu-nav-index {
-  margin-right: 76px;
+  /* margin-right: 76px; */
   display: flex;
   gap: 40px;
+  padding-right: 332px;
 }
 .address-list-index {
   display: flex;
   gap: 40px;
-  margin: 24px 0 24px 156px;
+  margin: 24px 0;
 }
 .main-contant-index {
   padding: 120px 0;
@@ -282,6 +286,7 @@ img {
 .logo-footer {
   display: inline-block;
   margin-bottom: 16px;
+  margin-right: 0;
 }
 /* Portfolio */
 .images_main_portfolio {
