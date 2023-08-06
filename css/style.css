@@ -231,10 +231,9 @@ img {
   align-items: center;
 }
 .menu-nav-index {
-  /* margin-right: 76px; */
   display: flex;
   gap: 40px;
-  padding-right: 332px;
+  margin-right: 332px;
 }
 .address-list-index {
   display: flex;
@@ -319,7 +318,4 @@ p,
 ul {
   margin: 0;
   padding: 0;
-}
-img {
-  width: 100%;
 }
