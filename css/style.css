@@ -229,6 +229,7 @@ img {
 .nav-list-index {
   display: flex;
   align-items: center;
+  margin-right: auto;
 }
 .menu-nav-index {
   display: flex;
